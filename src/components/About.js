@@ -6,9 +6,9 @@ export default function About() {
             className="px-10 w-full flex flex-col lg:flex-row py-20 
                        align-center bg-emerald-200 max-w-5xl mx-auto">
             <div className="flex-1">
-                <img src="./chetanyaabhandawat.png"
+                <img src="https://cbhandawat.github.io/PortFolio-Website-Using-React/chetanyaabhandawat.png"
                     alt="About"
-                    className="w-full h-full bg-cover" />
+                     />
             </div>
             <div className="flex-1 flex flex-col justify-center
                             items-center gap-5 px-6">
