@@ -7,7 +7,7 @@ export default function About() {
                        align-center bg-emerald-200 max-w-5xl mx-auto">
             <div className="flex-1">
                 <img src=
-                    "%PUBLIC_URL%/images/IMG-20221002-WA0046.jpg"
+                    "%PUBLIC_URL%/chetanyaabhandawat.png"
                     alt="About"
                     className="w-full h-full bg-cover" />
             </div>
