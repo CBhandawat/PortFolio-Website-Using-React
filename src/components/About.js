@@ -6,7 +6,7 @@ export default function About() {
             className="px-10 w-full flex flex-col lg:flex-row py-20 
                        align-center bg-emerald-200 max-w-5xl mx-auto">
             <div className="flex-1">
-                <img href= "https://<your-username>.github.io/<your-repo-name>/images/IMG-20221002-WA0046.jpg"
+                <img href= "https://cbhandawat.github.io/PortFolio-Website-Using-React/images/IMG-20221002-WA0046.jpg"
                     alt="About"
                     className="w-full h-full bg-cover" />
             </div>
