@@ -6,7 +6,7 @@ export default function About() {
             className="px-10 w-full flex flex-col lg:flex-row py-20 
                        align-center bg-emerald-200 max-w-5xl mx-auto">
             <div className="flex-1">
-                <img src= "/chetanyaabhandawat.png"
+                <img href="%PUBLIC_URL%/favicon.ico"
                     alt="About"
                     className="w-full h-full bg-cover" />
             </div>
