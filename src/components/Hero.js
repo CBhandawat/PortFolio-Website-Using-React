@@ -30,10 +30,11 @@ padding: 10px;
 flex-direction: column;
 justify-content: center;
 align-items: center;
-margin-top:9rem;
+margin-top: 10rem;
 text-align: center;
-${small({ marginTop: "5rem" })}
+${small({ marginTop: "13rem" })} 
 `
+
 
 const HeaderContainer = styled.div`
 color:#10B981;
