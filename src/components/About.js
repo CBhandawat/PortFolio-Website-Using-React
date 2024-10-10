@@ -1,11 +1,18 @@
 // About.js
+
+
 export default function About() {
     return (
         <section
             id="about"
             className="px-10 w-full flex flex-col lg:flex-row py-20 
                        align-center bg-emerald-200 max-w-5xl mx-auto">
-
+            <div className="flex-1">
+                <img src=
+                    "https://cbhandawat.github.io/PortFolio-Website-Using-React/images/IMG-20221002-WA0046.jpg"
+                    alt="About"
+                    className="w-full h-full bg-cover" />
+            </div>
             <div className="flex-1 flex flex-col justify-center
                             items-center gap-5 px-6">
                 <div>
